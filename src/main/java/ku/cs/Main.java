@@ -92,5 +92,7 @@ public class Main {
 
         // End game
         System.out.println("Thank you for playing!!");
+
+        //Jitlada Yotinta
     }
 }
