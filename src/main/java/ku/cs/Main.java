@@ -13,11 +13,11 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         // Greeting
-        System.out.println("Hi! Welcome to Monopoly Game! ^0^");
-        System.out.println("First, let's start creating Monopoly Game that you want to play.\n");
+        System.out.println("Hi! Welcome to the Monopoly Game! ^0^");
+        System.out.println("First, let's start creating the Monopoly game that you want to play.\n");
 
         // Naming option
-        System.out.println("Do you want to name the squares yourself or use default names. (40 squares)");
+        System.out.println("Do you want to name the squares yourself or use default names? (40 squares)");
         System.out.println("   D)efault");
         System.out.println("   N)ame");
 
@@ -79,7 +79,7 @@ public class Main {
         mGame.addNewPlayer(playerNames);
 
         // Get input for the number of rounds to play
-        System.out.print("How many round do you want to play? : ");
+        System.out.print("How many rounds do you want to play? : ");
         int round = scanner.nextInt();
 
         // Close the scanner because there will be no more input
