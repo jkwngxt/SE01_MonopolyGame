@@ -3,6 +3,10 @@ package ku.cs;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/**
+ * @author 6510405377 Jitlada Yotinta
+ */
+
 public class Main {
     public static void main(String[] args) {
 
